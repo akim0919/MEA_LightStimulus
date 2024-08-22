@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\DMD_GUI_SK\DMD_GUI_SK\x64\Debug\DMD_GUI_SK.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DMD_GUI_SK\DMD_GUI_SK\x64\Debug\DMD_GUI_SK.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\DMD_GUI_SK\DMD_GUI_SK\x64\Debug\DMDGUISK.DMD_GUI_SK.resources
+C:\Users\ASUS\source\repos\DMD_GUI_SK\DMD_GUI_SK\x64\Debug\DMD_GUI_SK.vcxproj.GenerateResource.cache
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\x64\Debug\DMD_GUI_SK.vcxproj.AssemblyReference.cache
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\x64\Debug\DMD_GUI_SK.vcxproj.SuggestedBindingRedirects.cache
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\x64\Debug\DMDGUISK.DMD_GUI_SK.resources
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\x64\Debug\DMD_GUI_SK.vcxproj.GenerateResource.cache

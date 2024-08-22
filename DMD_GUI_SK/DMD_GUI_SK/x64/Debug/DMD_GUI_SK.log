@@ -1,0 +1,90 @@
+﻿  DMD_GUI_SK.cpp
+C:\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(74,15): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(74,9): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(93,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(93,30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(103,40): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(103,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1088,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1163,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1229,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1245,16): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1245,11): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1246,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1246,12): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1251,167): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1251,84): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1252,165): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1252,83): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1253,164): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1253,83): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1254,166): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1254,84): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1294,16): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1294,11): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1318,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1338,58): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1388,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1410,1): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1427,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1437,17): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1437,11): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1454,63): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1511,16): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1511,10): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1536,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1554,59): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1592,40): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1592,28): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1598,38): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.h(1598,27): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEA_LightStimulus\DMD_GUI_SK\DMD_GUI_SK\DMD_GUI_SK.cpp(7,33): warning C4829: main 함수에 대한 매개 변수가 잘못된 것 같습니다. 'int main(Platform::Array<Platform::String^>^ argv)'를 사용하십시오.
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(487): warning C4793: 'cv::cuda::HostMem::HostMem': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+C:\opencv\build\include\opencv2\core\fast_math.hpp(318): warning C4793: '`anonymous namespace'::cvRound': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+C:\opencv\build\include\opencv2\core\fast_math.hpp(319): warning C4793: '`anonymous namespace'::cvRound': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+C:\opencv\build\include\opencv2\core\fast_math.hpp(207): warning C4793: '`anonymous namespace'::cvRound': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+C:\opencv\build\include\opencv2\core\fast_math.hpp(208): warning C4793: '`anonymous namespace'::cvRound': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+  DMD_GUI_SK.obj : MSIL 모듈이 발견되었습니다. MSIL에 증분 링크를 사용할 수 없습니다. 전체 링크를 수행하고 있습니다.
+  DMD_GUI_SK.vcxproj -> D:\MEA_LightStimulus\DMD_GUI_SK\x64\Debug\DMD_GUI_SK.exe
